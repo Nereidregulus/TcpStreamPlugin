@@ -1,0 +1,3 @@
+C:\Users\Robin\Desktop\Pull request\ExtLibs\TcpStream\obj\Release\TcpStream.csprojResolveAssemblyReference.cache
+C:\Users\Robin\Desktop\Pull request\ExtLibs\TcpStream\obj\Release\TcpStream.ServerView.resources
+C:\Users\Robin\Desktop\Pull request\ExtLibs\TcpStream\obj\Release\TcpStream.csproj.GenerateResource.Cache
